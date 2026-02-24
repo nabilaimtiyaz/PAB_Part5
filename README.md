@@ -19,6 +19,8 @@ Aplikasi menerapkan konsep state management menggunakan Provider dengan ChangeNo
 
 # <sub>Fitur-Fitur</sub>
 
+<img width="1908" height="865" alt="image" src="https://github.com/user-attachments/assets/82fda8ca-9dcf-4020-ae1a-f1513d34ba04" />
+
 **1. Menampilkan Daftar Produk**
 
 - Menampilkan list produk (nama, harga, emoji).
